@@ -1,0 +1,15 @@
+
+
+.mainPage{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.userAvatar {
+    width: 60px;
+    height: 60px;
+  
+}
+
+

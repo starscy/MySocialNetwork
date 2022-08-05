@@ -1,0 +1,18 @@
+
+.pageNumberString{
+    display: flex;
+    flex-wrap:wrap;
+    width: 100%;
+    
+}
+.pageNumberLink{
+    cursor: pointer;
+    padding: 3px;
+}
+.pageNumberLink:hover{
+    color: red;
+}
+.selectedPage {
+    font-weight: bold;
+    padding: 3px;
+}

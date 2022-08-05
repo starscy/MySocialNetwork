@@ -1,0 +1,15 @@
+.nav {
+    display: flex;
+    justify-content:flex-end;
+  
+}
+
+.login {
+    background-color: black;
+    color: white;
+}
+
+.logAva {
+    display: flex;
+    flex-direction: column;
+}
